@@ -1,0 +1,17 @@
+[
+{
+  "modid": "clock_app",
+  "name": "Clock App",
+  "description": "Adds a clock app to the device mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Gh102003"],
+  "credits": "MrCrayfish",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [],
+  "parent": "cdm"
+}
+]
